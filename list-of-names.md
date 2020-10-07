@@ -24,7 +24,7 @@ Or your GitHub profile:
 - [Tom Lutz](https://github.com/tommylutz)
 - [Warren Harper](https://twitter.com/warrenharper)
 - [Geostarters](https://github.com/geostarters)
-- [Ryohei Mashiko](https://github.com/RyoheiMashiko)
+- [Taro Yamada](https://github.com/taroyamada)
 
-
+git 
 
