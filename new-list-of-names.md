@@ -26,5 +26,3 @@ Or your GitHub profile:
 - [Geostarters](https://github.com/geostarters)
 - [Taro Yamada](https://github.com/taroyamada)
 
-git 
-
